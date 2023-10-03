@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\bin\Debug\HMApp01.exe.config
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\bin\Debug\HMApp01.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\bin\Debug\HMApp01.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\obj\Debug\HMApp01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\obj\Debug\HMApp01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\obj\Debug\HMApp01.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork1\HMApp01\obj\Debug\HMApp01.pdb
