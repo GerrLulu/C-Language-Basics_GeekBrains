@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\HomeWork04\HWapp01\bin\Debug\TextArrayForTask02.txt
+C:\Users\User\source\repos\HomeWork04\HWapp01\bin\Debug\HWapp01.exe.config
+C:\Users\User\source\repos\HomeWork04\HWapp01\bin\Debug\HWapp01.exe
+C:\Users\User\source\repos\HomeWork04\HWapp01\bin\Debug\HWapp01.pdb
+C:\Users\User\source\repos\HomeWork04\HWapp01\obj\Debug\HWapp01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeWork04\HWapp01\obj\Debug\HWapp01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork04\HWapp01\obj\Debug\HWapp01.exe
+C:\Users\User\source\repos\HomeWork04\HWapp01\obj\Debug\HWapp01.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\obj\Debug\HWapp01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\obj\Debug\HWapp01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\obj\Debug\HWapp01.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\obj\Debug\HWapp01.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\bin\Debug\TextArrayForTask02.txt
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\bin\Debug\HWapp01.exe.config
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\bin\Debug\HWapp01.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\HWapp01\bin\Debug\HWapp01.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\bin\Debug\TextArrayForTask02.txt
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\bin\Debug\HWapp01.exe.config
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\bin\Debug\HWapp01.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\bin\Debug\HWapp01.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\obj\Debug\HWapp01.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\obj\Debug\HWapp01.csproj.CoreCompileInputs.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\obj\Debug\HWapp01.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\HWapp01\obj\Debug\HWapp01.pdb

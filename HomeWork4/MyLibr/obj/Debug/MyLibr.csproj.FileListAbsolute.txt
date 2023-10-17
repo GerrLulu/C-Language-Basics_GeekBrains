@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\MyLibr\bin\Debug\MyLibr.dll
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\MyLibr\bin\Debug\MyLibr.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\MyLibr\obj\Debug\MyLibr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\MyLibr\obj\Debug\MyLibr.dll
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\MyLibr\obj\Debug\MyLibr.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork04\MyLibr\obj\Debug\MyLibr.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\MyLibr\bin\Debug\MyLibr.dll
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\MyLibr\bin\Debug\MyLibr.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\MyLibr\obj\Debug\MyLibr.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\MyLibr\obj\Debug\MyLibr.csproj.CoreCompileInputs.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\MyLibr\obj\Debug\MyLibr.dll
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork4\MyLibr\obj\Debug\MyLibr.pdb

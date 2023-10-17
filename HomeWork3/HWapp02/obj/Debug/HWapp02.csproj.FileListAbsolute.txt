@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\bin\Debug\HWapp02.exe.config
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\bin\Debug\HWapp02.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\bin\Debug\HWapp02.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\obj\Debug\HWapp02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\obj\Debug\HWapp02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\obj\Debug\HWapp02.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork03\HWapp02\obj\Debug\HWapp02.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\bin\Debug\HWapp02.exe.config
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\bin\Debug\HWapp02.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\bin\Debug\HWapp02.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\obj\Debug\HWapp02.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\obj\Debug\HWapp02.csproj.CoreCompileInputs.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\obj\Debug\HWapp02.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork3\HWapp02\obj\Debug\HWapp02.pdb
