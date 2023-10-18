@@ -7,39 +7,41 @@ namespace HWapp02
         /// <summary>
         /// Действительная часть комплексного числа
         /// </summary>
-        double re;
-
+        double Re;
         /// <summary>
         /// Мнимая часть комплексного числа
         /// </summary>
-        double im;
+        double Im;
+
 
         public Complex(double re, double im)
         {
-            this.re = re;
-            this.im = im;
+            this.Re = re;
+            this.Im = im;
         }
+
 
         public Complex Plus(Complex other)
         {
-            return new Complex(re + other.re, im + other.im);
+            return new Complex(Re + other.Re, Im + other.Im);
         }
 
         public Complex Minus(Complex other)
         {
-            return new Complex(re - other.re, im - other.im);
+            return new Complex(Re - other.Re, Im - other.Im);
         }
 
         public Complex Multiply(Complex other)
         {
-            return new Complex(re * other.re - im * other.im, re * other.im + im * other.re);
+            return new Complex(Re * other.Re - Im * other.Im, Re * other.Im + Im * other.Re);
         }
 
         public override string ToString()
         {
-            return $"{re} + {im}i";
+            return $"{Re} + {Im}i";
         }
     }
+
 
     class Program
     {

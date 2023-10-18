@@ -28,13 +28,14 @@ namespace HWapp01
         }
     }
 
+
     class Program
     {
         /// <summary>
         /// Метод считывает строку и проверяет на корректный целочисленный ввод.
         /// </summary>
         /// <returns></returns>
-        static int GetNumeral()
+        private static int GetNumeral()
         {
             {
                 while (true)
@@ -77,7 +78,8 @@ namespace HWapp01
 
             int[] array01;
             array01 = ArrayOneDim.NewArray(arraySize, fromStart, toEnd);
-            Console.WriteLine($"Количество пар элементов созданного массива, в которых только одно число делится на 3: {ArrayOneDim.DivideByThree(array01)}");
+            Console.WriteLine($"Количество пар элементов созданного массива, в которых только одно число делится на 3: " +
+                $"{ArrayOneDim.DivideByThree(array01)}");
 
             Console.ReadLine();
             Console.Clear();
@@ -86,7 +88,8 @@ namespace HWapp01
             string fileName = Console.ReadLine();
             int[] array02;
             array02 = ArrayOneDim.NewArray(AppDomain.CurrentDomain.BaseDirectory + fileName);
-            Console.WriteLine($"Количество пар элементов массива, взятого из текста, в которых только одно число делится на 3: {ArrayOneDim.DivideByThree(array02)}");
+            Console.WriteLine($"Количество пар элементов массива, взятого из текста, в которых только одно число делится на 3: " +
+                $"{ArrayOneDim.DivideByThree(array02)}");
 
             Console.ReadLine();
             Console.Clear();

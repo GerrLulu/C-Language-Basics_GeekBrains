@@ -65,6 +65,7 @@ namespace MyLibr
         }
     }
 
+
     public class NewArraOneDim
     {
         private int[] _array;

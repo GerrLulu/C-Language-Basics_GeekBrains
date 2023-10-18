@@ -8,7 +8,6 @@ namespace HWapp04
         /// Числитель
         /// </summary>
         private int _numerator;
-
         /// <summary>
         /// Знаменатель
         /// </summary>
@@ -19,17 +18,16 @@ namespace HWapp04
             get { return _numerator; }
             set { _numerator = value; }
         }
-
         public int Denominator
         {
             get { return _denominator; }
             set { _denominator = value; }
         }
-
         public double Decimal
         {
             get { return (_numerator / _denominator); }
         }
+
 
         public Fraction()
         {
@@ -44,6 +42,7 @@ namespace HWapp04
             this._denominator = denominator;
             Normalization();
         }
+
 
         public Fraction Plus(Fraction other)
         {
@@ -101,6 +100,8 @@ namespace HWapp04
             return $"{_numerator}/{_denominator}";
         }
     }
+
+
     class Program
     {
         static void Main(string[] args)

@@ -4,6 +4,15 @@ namespace Lesson2
 {
     class Program
     {
+        private static string _msg1 = "Необходима срочная консультация специалиста.";
+        private static string _msg2 = "Необходима консультация специалиста.";
+        private static string _msg3 = "Вам необходимо набрать";
+        private static string _msg4 = "Вам необходимо сбросить";
+
+        private static string _login = "root";
+        private static string _password = "GeekBrains";
+
+
         static double ReturnMin (double a, double b, double c)
         {
             return (a < b && a < c) ? a : (b < a && b < c) ? b : c;
@@ -18,10 +27,9 @@ namespace Lesson2
                     continue;
                 count++;
             }
+            //or
             /*if (Char.IsDigit(element) == true)
-             * count++
-              - по сути аналогичное решение данной задачи; оператор Char.IsDigit(element) выбирает только числа (нашел
-            на просторах интернета)*/
+             * count++*/
             return count;
         }
 
@@ -68,22 +76,17 @@ namespace Lesson2
 
         static void GetOutput(double height, double weight)
         {
-            string msg1 = "Необходима срочная консультация специалиста.";
-            string msg2 = "Необходима консультация специалиста.";
-            string msg3 = "Вам необходимо набрать";
-            string msg4 = "Вам необходимо сбросить";
-
             double maxWeight = 24.99 * height * height;
             double minWeight = 18.5 * height * height;
 
             switch(GetBMI(height, weight))
             {
                 case 1:
-                    Console.WriteLine($"У Вас выраженный дефицит массы тела. {msg1}\n{msg3} от {minWeight - weight:N2} " +
+                    Console.WriteLine($"У Вас выраженный дефицит массы тела. {_msg1}\n{_msg3} от {minWeight - weight:N2} " +
                         $"до {maxWeight - weight:N2} кг.");
                     break;
                 case 2:
-                    Console.WriteLine($"У Вас недостаточная (дефицит) масса тела. {msg2}\n{msg3} от " +
+                    Console.WriteLine($"У Вас недостаточная (дефицит) масса тела. {_msg2}\n{_msg3} от " +
                         $"{minWeight - weight:N2} до {maxWeight - weight:N2} кг.");
                     break;
                 case 3:
@@ -91,19 +94,19 @@ namespace Lesson2
                     break;
                 case 4:
                     Console.WriteLine($"У Вас избыточная масса тела (предожирение) и повышенный риск сердечно " +
-                        $"сосудистого заболевания.\n{msg2}\n{msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
+                        $"сосудистого заболевания.\n{_msg2}\n{_msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
                     break;
                 case 5:
                     Console.WriteLine($"У Вас ожирение первой степени и высокий риск сердечно сосудистого заболевания." +
-                        $"\n{msg2}\n{msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
+                        $"\n{_msg2}\n{_msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
                     break;
                 case 6:
                     Console.WriteLine($"У Вас ожирение второй степени и очень высокий риск сердечно сосудистого " +
-                        $"заболевания.\n{msg2}\n{msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
+                        $"заболевания.\n{_msg2}\n{_msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
                     break;
                 case 7:
                     Console.WriteLine($"У Вас ожирение третьей степени (морбидное) и чрезвычайно высокий риск сердечно " +
-                        $"сосудистого заболевания.\n{msg1}\n{msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
+                        $"сосудистого заболевания.\n{_msg1}\n{_msg4} от {weight - maxWeight:N2} до {weight - minWeight:N2} кг.");
                     break;
             }
         }
@@ -238,13 +241,11 @@ namespace Lesson2
 
             Console.WriteLine("У Вас 3 попытки на введения логина и пароля.");
 
-            string login = "root";
-            string password = "GeekBrains";
             int attempt = 0;
 
             do
             {
-                CheckPswrdLgn(login, password, attempt);
+                CheckPswrdLgn(_login, _password, attempt);
             }
             while (attempt < 3);
             
