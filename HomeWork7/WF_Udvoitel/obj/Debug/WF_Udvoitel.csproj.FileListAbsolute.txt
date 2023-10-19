@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb

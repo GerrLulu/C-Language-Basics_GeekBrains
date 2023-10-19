@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\bin\Debug\HW_PuzzleGame.exe.config
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\bin\Debug\HW_PuzzleGame.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\bin\Debug\HW_PuzzleGame.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.Form1.resources
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork07\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\bin\Debug\HW_PuzzleGame.exe.config
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\bin\Debug\HW_PuzzleGame.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\bin\Debug\HW_PuzzleGame.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.Form1.resources
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.Properties.Resources.resources
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.csproj.GenerateResource.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork7\HW_PuzzleGame\obj\Debug\HW_PuzzleGame.pdb
