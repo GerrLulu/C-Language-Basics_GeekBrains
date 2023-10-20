@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\bin\Debug\2BorNot2B.exe.config
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\bin\Debug\2BorNot2B.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\bin\Debug\2BorNot2B.pdb
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\2BorNot2B.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\_2BorNot2B.Form1.resources
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\_2BorNot2B.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\2BorNot2B.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\2BorNot2B.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\2BorNot2B.exe
+C:\Users\User\Desktop\Учеба\C#\Моя домашка\HomeWork08\2BorNot2B\obj\Debug\2BorNot2B.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\2BorNot2B.csproj.AssemblyReference.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\_2BorNot2B.Form1.resources
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\_2BorNot2B.Properties.Resources.resources
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\2BorNot2B.csproj.GenerateResource.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\2BorNot2B.csproj.CoreCompileInputs.cache
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\2BorNot2B.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\obj\Debug\2BorNot2B.pdb
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\bin\Debug\2BorNot2B.exe.config
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\bin\Debug\2BorNot2B.exe
+D:\Папка\C-Language-Basics_GeekBrains\HomeWork8\2BorNot2B\bin\Debug\2BorNot2B.pdb
